@@ -2,7 +2,7 @@
 
 ## 🔥关于我
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ted4kra&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ted4kra&show_icons=true&count_private=true&cache_seconds=1900&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,240b36,c31432"/>
 
 Here are some ideas to get you started:
 
